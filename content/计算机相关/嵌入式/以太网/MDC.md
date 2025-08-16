@@ -1,0 +1,1 @@
+MDC(Management Data Clock) , MDC 是由 MAC 层芯片(或其他控制芯片)驱动的时钟信号线

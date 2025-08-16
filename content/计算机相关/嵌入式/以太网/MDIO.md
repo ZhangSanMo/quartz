@@ -1,0 +1,1 @@
+MDIO (Management Data Input/Output), MDIO 是双向数据线, 通过 MDIO 接口,MAC 层芯片可以访问 PHY 芯片内部的寄存器,从而对 PHY 芯片进行控制和管理
